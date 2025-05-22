@@ -33,7 +33,7 @@
 - **Movie Streaming System**  
   Full-stack movie platform built using PHP, HTML, CSS, and JavaScript with CRUD operations.
 - **Chiya Sansar – E-commerce Website**  
-  Designed a tea shop site with Figma UI and implemented frontend/backend features using PHP stack.
+  Implemented frontend features using css,html,js.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrajnaChauhan1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
